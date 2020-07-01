@@ -1,0 +1,2 @@
+1588061143 /home/yuhong/DIC/DIC2020/DIC_HW3/testfixture.v
+1588580805 /home/yuhong/DIC/DIC2020/DIC_HW3/CS.v
